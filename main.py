@@ -10,7 +10,7 @@ app = FastAPI()
 
 @app.get("/")
 async def main():
-    return 'Deploy Model Tutorial'
+    return 'Deploy Model Tutorial MOMO'
 
 @app.get("/predict")
 
